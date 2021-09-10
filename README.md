@@ -1,2 +1,2 @@
 # HerancaPOO
-Demonstrativo de Herança em JAVA
+Programa orientado a objetos utilizando herança de classes, métodos e atributos.
